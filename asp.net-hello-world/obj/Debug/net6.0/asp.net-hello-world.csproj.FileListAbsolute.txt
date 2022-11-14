@@ -24,3 +24,4 @@ C:\Users\Admin\source\repos\asp.net-hello-world\asp.net-hello-world\obj\Debug\ne
 C:\Users\Admin\source\repos\asp.net-hello-world\asp.net-hello-world\obj\Debug\net6.0\asp.net-hello-world.pdb
 C:\Users\Admin\source\repos\asp.net-hello-world\asp.net-hello-world\obj\Debug\net6.0\asp.net-hello-world.genruntimeconfig.cache
 C:\Users\Admin\source\repos\asp.net-hello-world\asp.net-hello-world\obj\Debug\net6.0\ref\asp.net-hello-world.dll
+C:\Users\Admin\source\repos\asp.net-hello-world\asp.net-hello-world\bin\Debug\net6.0\Views\Home\Index.cshtml
