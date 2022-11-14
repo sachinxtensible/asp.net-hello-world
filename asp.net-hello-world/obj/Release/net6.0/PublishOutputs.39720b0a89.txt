@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\asp.net-hello-world\asp.net-hello-world\obj\Release\net6.0\PubTmp\Out\asp.net-hello-world.exe
+C:\Users\Admin\source\repos\asp.net-hello-world\asp.net-hello-world\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Admin\source\repos\asp.net-hello-world\asp.net-hello-world\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Admin\source\repos\asp.net-hello-world\asp.net-hello-world\obj\Release\net6.0\PubTmp\Out\asp.net-hello-world.dll
+C:\Users\Admin\source\repos\asp.net-hello-world\asp.net-hello-world\obj\Release\net6.0\PubTmp\Out\asp.net-hello-world.deps.json
+C:\Users\Admin\source\repos\asp.net-hello-world\asp.net-hello-world\obj\Release\net6.0\PubTmp\Out\asp.net-hello-world.runtimeconfig.json
+C:\Users\Admin\source\repos\asp.net-hello-world\asp.net-hello-world\obj\Release\net6.0\PubTmp\Out\asp.net-hello-world.pdb
